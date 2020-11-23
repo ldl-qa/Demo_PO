@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c54fb421-c246-47ed-81fb-824dd34f04d0" name="Default Changelist" comment="PO设计" />
-    <list id="76a3c2eb-f2cd-4a77-889a-069c05a577f6" name="Revert &quot;PO设计&quot;" comment="Revert &quot;PO设计&quot;&#10;&#10;This reverts commit 1b960f52">
+    <list default="true" id="c54fb421-c246-47ed-81fb-824dd34f04d0" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Demo_PO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
+    <list id="76a3c2eb-f2cd-4a77-889a-069c05a577f6" name="Revert &quot;PO设计&quot;" comment="Revert &quot;PO设计&quot;&#10;&#10;This reverts commit 1b960f52" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1kh7o1Ce6y9FgRCzXv9SrMeSSEa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -44,7 +43,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606140763071</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="PO设计">
+      <created>1606141005845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606141005845</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,18 +74,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1606140956827" />
-    <state x="560" y="111" key="CommitChangelistDialog2" timestamp="1606140826620">
+    <state x="560" y="111" key="CommitChangelistDialog2" timestamp="1606141004332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606140826620" />
+    <state x="560" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606141004332" />
     <state x="179" y="114" key="DiffContextDialog" timestamp="1606140892159">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="179" y="114" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606140892159" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1606140903062">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1606141049806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606140903062" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606141049806" />
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1606141146065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606141146065" />
     <state x="752" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606140989837">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
